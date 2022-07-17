@@ -18,8 +18,8 @@ body {
 }
 
 .card {
-  width : 100px;
-  max-width: 350px;
+  width : 500px;
+  max-width: 500px;
   margin: auto;
   overflow-y: auto;
   position: relative;
