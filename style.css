@@ -18,11 +18,12 @@ body {
 }
 
 .card {
+  max-width: 340px;
   margin: auto;
   overflow-y: auto;
   position: relative;
   z-index: 1;
-  overflow-x: auto;
+  overflow-x: hidden;
   background-color: transparent;
   display: flex;
   transition: 0.3s;
