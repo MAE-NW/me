@@ -24,7 +24,7 @@ body {
   overflow-y: auto;
   position: relative;
   z-index: 1;
-  overflow-x: hidden;
+  overflow-x: auto;
   background-color: transparent;
   display: flex;
   transition: 0.3s;
